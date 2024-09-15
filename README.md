@@ -1,1 +1,1 @@
-❤This is practice repo for 🐍python , accordingly 🐍python offcial 🌁documentation 
+❤This is a practice repo for 🐍python , accordingly 🐍python offcial 🌁documentation 
